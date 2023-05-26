@@ -12,20 +12,20 @@
 GET http://localhost:5500/
 Content-Type: application/json
 
-# GET http://localhost:5500/6470eca0ecaaf005aa96f3d5
+# GET http://localhost:5500/6470ef3c4027ba5fd12caaca
 # Content-Type: application/json
 
-# DELETE  http://localhost:5500/6470eca0ecaaf005aa96f3d5
+# DELETE  http://localhost:5500/6470d40ea0f9a6fca930abbe
 # Content-Type: application/json
 
 
 
-# PUT  http://localhost:5500/6470d40ea0f9a6fca930abbe
+# PUT  http://localhost:5500/6470ef3c4027ba5fd12caaca
 # Content-Type: application/json
 
 # {
-#   "nom": "Abdessamad Ahmali ||",
-#   "group": "Group ||",
-#   "passed": false,
-#   "mention": "||"
+#   "nom": "updated",
+#   "group": "updated Group",
+#   "passed": true,
+#   "mention": "updated mention"
 # }
